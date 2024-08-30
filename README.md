@@ -17,5 +17,4 @@ chmod +x hoaxshell.py
 
 sudo python3 hoaxshell.py -s <your_ip>
 
-➖➖➖➖➖➖➖➖➖
 بعد توی خروجی شما با یه کد مواجه میشید اون اصل کاری هستش  و باید توی  PowerShell یا CMD سیستم مورد نظر وارد کنید
